@@ -1,1 +1,2 @@
 x = ('nay')
+print (x)
